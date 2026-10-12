@@ -1,0 +1,5 @@
+alert("Welcome to website!")
+alert("What are you looking for?")
+alert("Enable cookies to get a more personalized experience")
+alert("We respect your privacy and protect your data.")
+alert("Have a good day!")
